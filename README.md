@@ -1,2 +1,2 @@
 # guvi_tasks
-This repo contains all the tasks related to Guvi.
+This repo contains the code for registration login system.
